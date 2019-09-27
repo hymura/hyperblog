@@ -1,12 +1,12 @@
 body{
-    color: #333;
+    color: black;
     text-align: center;
     font-family: "Arial";
 }
 
 #cabecera
 {
-    background: #33A;
+    background: gray;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
